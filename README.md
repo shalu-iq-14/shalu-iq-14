@@ -1,32 +1,30 @@
-<!-- TOP YELLOW NEON BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100e,40:2b2200,100:ffd700&height=230&section=header&text=SHALU%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Python%20Developer%20%7C%20FastAPI%20%7C%20ETL%20%26%20Data%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
-</div>
+<!-- TOP NEON BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=90&lines=SHALU+JAIN;Python+Developer+%7C+FastAPI;ETL+%26+Data+Engineering" alt="Header Banner" />
+</p>
 
-<br/>
-
-<!-- ANIMATED TYPING HEADER (YELLOW GLOW) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+Scalable+FastAPI+Backends+%E2%9A%A1;ETL+Pipelines+%7C+Streamlit+%7C+MongoDB+%7C+MySQL;Turning+Data+into+Interactive+Web+Apps+%F0%9F%9A%80" />
-</div>
+<!-- ANIMATED TYPING SUB-HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Scalable+FastAPI+Backends+%E2%9A%A1;ETL+Pipelines+%7C+Streamlit+%7C+MongoDB+%7C+MySQL;Turning+Data+into+Interactive+Web+Apps+%F0%9F%9A%80" alt="Sub Header" />
+</p>
 
 <br/>
 
 <!-- QUICK CONTACT & SOCIALS -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/shalu-iq-14">
-    <img src="https://img.shields.io/badge/GITHUB-SHALU--IQ--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
+    <img src="https://img.shields.io/badge/GITHUB-SHALU--IQ--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=ffd700" alt="Profile Views" />
-</div>
+</p>
 
 <br/>
 
 <!-- HIGHLIGHT TAGS -->
-<div align="center">
-  <h3><code><b>Python Backend</b></code> &nbsp;|&nbsp; <code><b>FastAPI & MongoDB</b></code> &nbsp;|&nbsp; <code><b>ETL Pipelines</b></code> &nbsp;|&nbsp; <code><b>Streamlit Apps</b></code></h3>
-</div>
+<p align="center">
+  <code><b>Python Backend</b></code> &nbsp;|&nbsp; <code><b>FastAPI & MongoDB</b></code> &nbsp;|&nbsp; <code><b>ETL Pipelines</b></code> &nbsp;|&nbsp; <code><b>Streamlit Apps</b></code>
+</p>
 
 ---
 
@@ -75,12 +73,12 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 
 ### 🧠 Backend Engineering, Databases & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br/>
@@ -88,7 +86,7 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 <!-- INTERACTIVE SKILL ICON GRID -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,mysql,html,css,git,github,vscode,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,mysql,html,css,git,github,vscode,py&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
@@ -146,14 +144,14 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 ## 📊 Live GitHub Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalu-iq-14&show_icons=true&theme=dark&hide_border=true&bg_color=12100e&title_color=ffd700&icon_color=ffd700&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalu-iq-14&theme=dark&hide_border=true&background=12100e&ring=ffd700&fire=ffd700&currStreakLabel=ffd700" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalu-iq-14&show_icons=true&theme=dark&hide_border=true&bg_color=12100e&title_color=ffd700&icon_color=ffd700&text_color=ffffff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalu-iq-14&theme=dark&hide_border=true&background=12100e&ring=ffd700&fire=ffd700&currStreakLabel=ffd700" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalu-iq-14&layout=compact&theme=dark&hide_border=true&bg_color=12100e&title_color=ffd700&text_color=ffffff" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalu-iq-14&layout=compact&theme=dark&hide_border=true&bg_color=12100e&title_color=ffd700&text_color=ffffff" width="420" alt="Top Languages" />
 </div>
 
 ---
