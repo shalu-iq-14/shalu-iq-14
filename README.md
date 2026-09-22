@@ -1,32 +1,30 @@
-<!-- TOP YELLOW NEON BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100e,40:2b2200,100:ffd700&height=230&section=header&text=SHALU%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Python%20Developer%20%7C%20FastAPI%20%7C%20ETL%20%26%20Data%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
-</div>
+<!-- TOP BANNER (100% STABLE SVG HEADER) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=100&lines=SHALU+JAIN;Python+Developer+%7C+FastAPI;ETL+%26+Data+Engineering" alt="Header Banner" />
+</p>
 
-<br/>
-
-<!-- ANIMATED TYPING HEADER (YELLOW GLOW) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+Scalable+FastAPI+Backends+%E2%9A%A1;ETL+Pipelines+%7C+Streamlit+%7C+MongoDB+%7C+MySQL;Turning+Data+into+Interactive+Web+Apps+%F0%9F%9A%80" />
-</div>
+<!-- ANIMATED SUB-HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Scalable+FastAPI+Backends+%E2%9A%A1;ETL+Pipelines+%7C+Streamlit+%7C+MongoDB+%7C+MySQL;Turning+Data+into+Interactive+Web+Apps+%F0%9F%9A%80" alt="Sub Header" />
+</p>
 
 <br/>
 
 <!-- QUICK CONTACT & SOCIALS -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/shalu-iq-14">
     <img src="https://img.shields.io/badge/GITHUB-shalu--iq--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=ffd700" alt="Profile Views" />
-</div>
+</p>
 
 <br/>
 
 <!-- HIGHLIGHT TAGS -->
-<div align="center">
-  <h3><code><b>Python Backend</b></code> &nbsp;|&nbsp; <code><b>FastAPI & MongoDB</b></code> &nbsp;|&nbsp; <code><b>ETL Pipelines</b></code> &nbsp;|&nbsp; <code><b>Streamlit Apps</b></code></h3>
-</div>
+<p align="center">
+  <code><b>Python Backend</b></code> &nbsp;|&nbsp; <code><b>FastAPI & MongoDB</b></code> &nbsp;|&nbsp; <code><b>ETL Pipelines</b></code> &nbsp;|&nbsp; <code><b>Streamlit Apps</b></code>
+</p>
 
 ---
 
