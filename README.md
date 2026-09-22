@@ -15,7 +15,7 @@
 <!-- QUICK CONTACT & SOCIALS -->
 <div align="center">
   <a href="https://github.com/shalu-iq-14">
-    <img src="https://img.shields.io/badge/GITHUB-SHALU--IQ--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
+    <img src="https://img.shields.io/badge/GITHUB-shalu--iq--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=ffd700" alt="Profile Views" />
@@ -45,19 +45,19 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 
 <div align="center">
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <img src="https://img.shields.io/badge/STEP_01-DATA_INGESTION-2b2200?style=for-the-badge&logo=python&logoColor=ffd700"/><br/><br/>
       <b>Data Extraction & ETL</b><br/>
       <i>Pandas, Streamlit Pipelines, Data Cleaning</i>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <img src="https://img.shields.io/badge/STEP_02-BACKEND_APIS-2b2200?style=for-the-badge&logo=fastapi&logoColor=ffd700"/><br/><br/>
       <b>API Engineering</b><br/>
       <i>FastAPI, Route Handlers, Async Operations</i>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <img src="https://img.shields.io/badge/STEP_03-DATABASE-2b2200?style=for-the-badge&logo=mongodb&logoColor=ffd700"/><br/><br/>
       <b>Data Persistence</b><br/>
       <i>MongoDB NoSQL, MySQL Relational Schemas</i>
@@ -98,7 +98,7 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 
 ## 🚀 Featured Projects Showcase
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>📊 Streamlit ETL Pipeline</h3>
