@@ -1,22 +1,30 @@
-<!-- TOP YELLOW NEON BANNER -->
+<!-- TOP ROSE GOLD NEON BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100e,40:2b2200,100:ffd700&height=230&section=header&text=SHALU%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100e,40:3A001E,100:FF69B4&height=230&section=header&text=SHALU%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <!-- ANIMATED SUB-HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems+%E2%9A%A1;GenAI+%7C+Agentic+Systems+%7C+RAG+Pipelines;Scalable+APIs+%7C+Machine+Learning+%F0%9F%9A%80" alt="Sub Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems+%E2%9A%A1;GenAI+%7C+Agentic+Systems+%7C+RAG+Pipelines;Scalable+APIs+%7C+Machine+Learning+%F0%9F%9A%80" alt="Sub Header" />
 </p>
 
 <br/>
 
-<!-- QUICK CONTACT & SOCIALS -->
+<!-- QUICK CONTACT & SOCIALS (LINKEDIN & EMAIL ADDED) -->
 <p align="center">
   <a href="https://github.com/shalu-iq-14">
-    <img src="https://img.shields.io/badge/GITHUB-SHALU--IQ--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
+    <img src="https://img.shields.io/badge/GITHUB-shalu--iq--14-FF69B4?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=ffd700" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/shalu-jain-a15138289">
+    <img src="https://img.shields.io/badge/LINKEDIN-SHALU--JAIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+  </a>
+  &nbsp;
+  <a href="mailto:shalujain142001@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-SHALUJAIN142001%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
 <br/>
@@ -46,17 +54,17 @@ I am a **Data Scientist & AI Engineer** focused on building cutting-edge Generat
 <table border="0" width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/STEP_01-DATA_%26_EMBEDDINGS-2b2200?style=for-the-badge&logo=python&logoColor=ffd700"/><br/><br/>
+      <img src="https://img.shields.io/badge/STEP_01-DATA_%26_EMBEDDINGS-3A001E?style=for-the-badge&logo=python&logoColor=ff69b4"/><br/><br/>
       <b>Data Engineering & Vectors</b><br/>
       <i>Feature Engineering, Vector Indexing, Chunking</i>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/STEP_02-AGENTIC_%26_RAG-2b2200?style=for-the-badge&logo=openai&logoColor=ffd700"/><br/><br/>
+      <img src="https://img.shields.io/badge/STEP_02-AGENTIC_%26_RAG-3A001E?style=for-the-badge&logo=openai&logoColor=ff69b4"/><br/><br/>
       <b>AI Core Engineering</b><br/>
       <i>LLM Orchestration, LangChain, Multi-Agent Systems</i>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/STEP_03-DEPLOYMENT-2b2200?style=for-the-badge&logo=fastapi&logoColor=ffd700"/><br/><br/>
+      <img src="https://img.shields.io/badge/STEP_03-DEPLOYMENT-3A001E?style=for-the-badge&logo=fastapi&logoColor=ff69b4"/><br/><br/>
       <b>Model Serving & APIs</b><br/>
       <i>FastAPI Microservices, AWS EC2, Docker</i>
     </td>
@@ -145,14 +153,14 @@ I am a **Data Scientist & AI Engineer** focused on building cutting-edge Generat
 ## 📊 Live GitHub Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalu-iq-14&show_icons=true&theme=dark&hide_border=true&bg_color=12100e&title_color=ffd700&icon_color=ffd700&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalu-iq-14&theme=dark&hide_border=true&background=12100e&ring=ffd700&fire=ffd700&currStreakLabel=ffd700" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalu-iq-14&show_icons=true&theme=dark&hide_border=true&bg_color=12100e&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalu-iq-14&theme=dark&hide_border=true&background=12100e&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalu-iq-14&layout=compact&theme=dark&hide_border=true&bg_color=12100e&title_color=ffd700&text_color=ffffff" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalu-iq-14&layout=compact&theme=dark&hide_border=true&bg_color=12100e&title_color=ff69b4&text_color=ffffff" width="420" />
 </div>
 
 ---
