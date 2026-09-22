@@ -1,11 +1,11 @@
-<!-- TOP BANNER (100% STABLE SVG HEADER) -->
+<!-- TOP YELLOW NEON BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=100&lines=SHALU+JAIN;Python+Developer+%7C+FastAPI;ETL+%26+Data+Engineering" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100e,40:2b2200,100:ffd700&height=230&section=header&text=SHALU%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <!-- ANIMATED SUB-HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Scalable+FastAPI+Backends+%E2%9A%A1;ETL+Pipelines+%7C+Streamlit+%7C+MongoDB+%7C+MySQL;Turning+Data+into+Interactive+Web+Apps+%F0%9F%9A%80" alt="Sub Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems+%E2%9A%A1;GenAI+%7C+Agentic+Systems+%7C+RAG+Pipelines;Scalable+APIs+%7C+Machine+Learning+%F0%9F%9A%80" alt="Sub Header" />
 </p>
 
 <br/>
@@ -13,7 +13,7 @@
 <!-- QUICK CONTACT & SOCIALS -->
 <p align="center">
   <a href="https://github.com/shalu-iq-14">
-    <img src="https://img.shields.io/badge/GITHUB-shalu--iq--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
+    <img src="https://img.shields.io/badge/GITHUB-SHALU--IQ--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=ffd700" alt="Profile Views" />
@@ -23,42 +23,42 @@
 
 <!-- HIGHLIGHT TAGS -->
 <p align="center">
-  <code><b>Python Backend</b></code> &nbsp;|&nbsp; <code><b>FastAPI & MongoDB</b></code> &nbsp;|&nbsp; <code><b>ETL Pipelines</b></code> &nbsp;|&nbsp; <code><b>Streamlit Apps</b></code>
+  <code><b>Machine Learning</b></code> &nbsp;|&nbsp; <code><b>Generative AI</b></code> &nbsp;|&nbsp; <code><b>Agentic AI</b></code> &nbsp;|&nbsp; <code><b>RAG Systems</b></code>
 </p>
 
 ---
 
 # 👋 Hey, I'm Shalu Jain
 
-I am a **Python Developer & Data Engineering Enthusiast** dedicated to building robust backend APIs, automated ETL data processing pipelines, and scalable web applications.
+I am a **Data Scientist & AI Engineer** focused on building cutting-edge Generative AI solutions, Autonomous Agentic Workflows, Retrieval-Augmented Generation (RAG) pipelines, and production-ready Machine Learning architectures.
 
-### 🌟 Core Philosophy
-- 🎯 **Production-First Code:** Writing modular, well-documented, and production-ready Python architecture.
-- ⚡ **Scalable Backends:** Building lightning-fast REST APIs using FastAPI with MongoDB & MySQL databases.
-- 🔄 **Data Pipelines:** Engineering automated ETL workflows for seamless data ingestion and analytics.
+### 🌟 Core Focus & Expertise
+- 🤖 **Generative AI & Agentic Systems:** Designing multi-agent frameworks, LLM workflows, and intelligent automation agents.
+- 🔍 **RAG Pipelines & Vector Search:** Building advanced knowledge retrieval architectures using vector databases and Semantic Search.
+- ⚡ **Production AI Backends:** Deploying robust ML models and GenAI APIs using FastAPI, Docker, and AWS EC2 environments.
 
 ---
 
-## ⚡ Engineering & Data Pipeline Workflow
+## ⚡ AI Systems & MLOps Pipeline Architecture
 
 <div align="center">
 
 <table border="0" width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/STEP_01-DATA_INGESTION-2b2200?style=for-the-badge&logo=python&logoColor=ffd700"/><br/><br/>
-      <b>Data Extraction & ETL</b><br/>
-      <i>Pandas, Streamlit Pipelines, Data Cleaning</i>
+      <img src="https://img.shields.io/badge/STEP_01-DATA_%26_EMBEDDINGS-2b2200?style=for-the-badge&logo=python&logoColor=ffd700"/><br/><br/>
+      <b>Data Engineering & Vectors</b><br/>
+      <i>Feature Engineering, Vector Indexing, Chunking</i>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/STEP_02-BACKEND_APIS-2b2200?style=for-the-badge&logo=fastapi&logoColor=ffd700"/><br/><br/>
-      <b>API Engineering</b><br/>
-      <i>FastAPI, Route Handlers, Async Operations</i>
+      <img src="https://img.shields.io/badge/STEP_02-AGENTIC_%26_RAG-2b2200?style=for-the-badge&logo=openai&logoColor=ffd700"/><br/><br/>
+      <b>AI Core Engineering</b><br/>
+      <i>LLM Orchestration, LangChain, Multi-Agent Systems</i>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/STEP_03-DATABASE-2b2200?style=for-the-badge&logo=mongodb&logoColor=ffd700"/><br/><br/>
-      <b>Data Persistence</b><br/>
-      <i>MongoDB NoSQL, MySQL Relational Schemas</i>
+      <img src="https://img.shields.io/badge/STEP_03-DEPLOYMENT-2b2200?style=for-the-badge&logo=fastapi&logoColor=ffd700"/><br/><br/>
+      <b>Model Serving & APIs</b><br/>
+      <i>FastAPI Microservices, AWS EC2, Docker</i>
     </td>
   </tr>
 </table>
@@ -67,18 +67,19 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 
 ---
 
-## 🛠️ Tech Stack & Technical Arsenal
+## 🛠️ Tech Stack & AI Arsenal
 
 <div align="center">
 
-### 🧠 Backend Engineering, Databases & Analytics
+### 🧠 Data Science, Machine Learning & AI Engineering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 <br/>
@@ -86,7 +87,7 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 <!-- INTERACTIVE SKILL ICON GRID -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,mysql,html,css,git,github,vscode,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,mongodb,mysql,aws,docker,git,github,vscode,py&theme=dark" />
   </a>
 </p>
 
@@ -94,47 +95,47 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 
 ---
 
-## 🚀 Featured Projects Showcase
+## 🚀 Featured AI Projects Showcase
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Streamlit ETL Pipeline</h3>
-      <p>Interactive data transformation and ETL web platform designed for processing datasets efficiently with real-time UI dashboards.</p>
+      <h3>🤖 Autonomous Client Data Ingestion Agent</h3>
+      <p>Multi-agent AI pipeline designed using FastAPI and LLMs to autonomously ingest, validate, and process incoming data streams into structured databases.</p>
       <ul>
-        <li>Automated data cleaning and transformation steps.</li>
-        <li>Interactive dashboard UI powered by Streamlit.</li>
+        <li>Automated schema mapping and error correction via Agentic reasoning.</li>
+        <li>Backend REST API integration with asynchronous database execution.</li>
       </ul>
-      <p><code>Python</code> • <code>Streamlit</code> • <code>ETL</code> • <code>Pandas</code></p>
+      <p><code>GenAI</code> • <code>FastAPI</code> • <code>Python</code> • <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ FastAPI MongoDB Repository</h3>
-      <p>High-performance asynchronous REST backend connected with MongoDB NoSQL database for modern web services.</p>
+      <h3>🔍 Production RAG Knowledge Search Pipeline</h3>
+      <p>High-performance Retrieval-Augmented Generation system using Vector Databases for contextual document Q&A and semantic querying.</p>
       <ul>
-        <li>Asynchronous CRUD operations & query endpoints.</li>
-        <li>NoSQL database integration with Pydantic validations.</li>
+        <li>Vector embeddings generation and cosine similarity search.</li>
+        <li>Sub-second query response latency with contextual grounding.</li>
       </ul>
-      <p><code>FastAPI</code> • <code>MongoDB</code> • <code>Python</code> • <code>AsyncIO</code></p>
+      <p><code>RAG</code> • <code>Vector DB</code> • <code>Python</code> • <code>LLMs</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 FastAPI Student Management System</h3>
-      <p>Structured management platform handling data persistence, routes, and API responses for administrative workflows.</p>
+      <h3>📊 End-to-End Predictive Machine Learning Pipeline</h3>
+      <p>Comprehensive ML workflow covering automated data preprocessing, cross-validation, hyperparameter tuning, and API serving.</p>
       <ul>
-        <li>Modular routing architecture.</li>
-        <li>Clean database schema design.</li>
+        <li>Advanced feature engineering and regularization.</li>
+        <li>Model evaluation and real-time inference endpoint.</li>
       </ul>
-      <p><code>FastAPI</code> • <code>Python</code> • <code>SQL</code></p>
+      <p><code>Scikit-Learn</code> • <code>Python</code> • <code>MLOps</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 Python Learning & Materials</h3>
-      <p>Comprehensive code collection, algorithms, data structures, and practice modules showcasing core Python concepts.</p>
+      <h3>🎓 Student & Resource Management System</h3>
+      <p>Full-stack data platform deployed on cloud infrastructure for managing structured administrative workflows and analytics.</p>
       <ul>
-        <li>Core Data Structures & Algorithms.</li>
-        <li>Hands-on practical code modules.</li>
+        <li>Database persistence with SQLAlchemy & MySQL.</li>
+        <li>Hosted backend on AWS EC2 environment.</li>
       </ul>
-      <p><code>Python 3</code> • <code>DSA</code> • <code>Clean Code</code></p>
+      <p><code>FastAPI</code> • <code>React</code> • <code>AWS EC2</code> • <code>MySQL</code></p>
     </td>
   </tr>
 </table>
@@ -157,6 +158,6 @@ I am a **Python Developer & Data Engineering Enthusiast** dedicated to building 
 ---
 
 <div align="center">
-  <h3>📫 Let's Connect & Build Scalable Systems!</h3>
-  <p>Open for Python backend engineering, API development, and data integration projects.</p>
+  <h3>📫 Let's Connect & Build Intelligent AI Systems!</h3>
+  <p>Open for AI Engineering, Machine Learning, and Generative AI collaborations.</p>
 </div>
