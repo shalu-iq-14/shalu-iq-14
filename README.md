@@ -1,13 +1,13 @@
-<!-- TOP NEON BANNER -->
+<!-- TOP YELLOW NEON BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b192c,40:003b46,100:00f2fe&height=230&section=header&text=SHALU%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Python%20Developer%20%7C%20FastAPI%20%7C%20ETL%20%26%20Data%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100e,40:2b2200,100:ffd700&height=230&section=header&text=SHALU%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Python%20Developer%20%7C%20FastAPI%20%7C%20ETL%20%26%20Data%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
-<!-- ANIMATED TYPING HEADER -->
+<!-- ANIMATED TYPING HEADER (YELLOW GLOW) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Building+Scalable+FastAPI+Backends+%E2%9A%A1;ETL+Pipelines+%7C+Streamlit+%7C+MongoDB+%7C+MySQL;Turning+Data+into+Interactive+Web+Apps+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+Scalable+FastAPI+Backends+%E2%9A%A1;ETL+Pipelines+%7C+Streamlit+%7C+MongoDB+%7C+MySQL;Turning+Data+into+Interactive+Web+Apps+%F0%9F%9A%80" />
 </div>
 
 <br/>
@@ -15,10 +15,10 @@
 <!-- QUICK CONTACT & SOCIALS -->
 <div align="center">
   <a href="https://github.com/shalu-iq-14">
-    <img src="https://img.shields.io/badge/GITHUB-SHALU--IQ--14-00F2FE?style=for-the-badge&logo=github&logoColor=000000" />
+    <img src="https://img.shields.io/badge/GITHUB-SHALU--IQ--14-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=00f2fe" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=ffd700" alt="Profile Views" />
 </div>
 
 <br/>
@@ -32,12 +32,12 @@
 
 # 👋 Hey, I'm Shalu Jain
 
-I am a **Python Developer & Data Engineering Enthusiast** focused on building robust backend APIs, automated ETL data processing pipelines, and dynamic web applications.
+I am a **Python Developer & Data Engineering Enthusiast** dedicated to building robust backend APIs, automated ETL data processing pipelines, and scalable web applications.
 
 ### 🌟 Core Philosophy
-- ⚡ **Scalable Backends:** Designing high-performance asynchronous REST APIs using FastAPI & MongoDB.
-- 🔄 **Data Pipelines:** Building automated ETL flows for smooth data transformation & visualization.
-- 🎯 **Clean Architecture:** Writing modular, well-documented, and production-ready Python code.
+- 🎯 **Production-First Code:** Writing modular, well-documented, and production-ready Python architecture.
+- ⚡ **Scalable Backends:** Building lightning-fast REST APIs using FastAPI with MongoDB & MySQL databases.
+- 🔄 **Data Pipelines:** Engineering automated ETL workflows for seamless data ingestion and analytics.
 
 ---
 
@@ -48,17 +48,17 @@ I am a **Python Developer & Data Engineering Enthusiast** focused on building ro
 <table border="0">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/STEP_01-DATA_INGESTION-003b46?style=for-the-badge&logo=python&logoColor=00f2fe"/><br/><br/>
+      <img src="https://img.shields.io/badge/STEP_01-DATA_INGESTION-2b2200?style=for-the-badge&logo=python&logoColor=ffd700"/><br/><br/>
       <b>Data Extraction & ETL</b><br/>
-      <i>Pandas, Streamlit Pipelines, Data Transformation</i>
+      <i>Pandas, Streamlit Pipelines, Data Cleaning</i>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/STEP_02-BACKEND_APIS-003b46?style=for-the-badge&logo=fastapi&logoColor=00f2fe"/><br/><br/>
+      <img src="https://img.shields.io/badge/STEP_02-BACKEND_APIS-2b2200?style=for-the-badge&logo=fastapi&logoColor=ffd700"/><br/><br/>
       <b>API Engineering</b><br/>
       <i>FastAPI, Route Handlers, Async Operations</i>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/STEP_03-DATABASE-003b46?style=for-the-badge&logo=mongodb&logoColor=00f2fe"/><br/><br/>
+      <img src="https://img.shields.io/badge/STEP_03-DATABASE-2b2200?style=for-the-badge&logo=mongodb&logoColor=ffd700"/><br/><br/>
       <b>Data Persistence</b><br/>
       <i>MongoDB NoSQL, MySQL Relational Schemas</i>
     </td>
@@ -73,7 +73,7 @@ I am a **Python Developer & Data Engineering Enthusiast** focused on building ro
 
 <div align="center">
 
-### 🧠 Backend Engineering & Data Analytics
+### 🧠 Backend Engineering, Databases & Analytics
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -146,14 +146,14 @@ I am a **Python Developer & Data Engineering Enthusiast** focused on building ro
 ## 📊 Live GitHub Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalu-iq-14&show_icons=true&theme=dark&hide_border=true&bg_color=0b192c&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalu-iq-14&theme=dark&hide_border=true&background=0b192c&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalu-iq-14&show_icons=true&theme=dark&hide_border=true&bg_color=12100e&title_color=ffd700&icon_color=ffd700&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalu-iq-14&theme=dark&hide_border=true&background=12100e&ring=ffd700&fire=ffd700&currStreakLabel=ffd700" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalu-iq-14&layout=compact&theme=dark&hide_border=true&bg_color=0b192c&title_color=00f2fe&text_color=ffffff" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalu-iq-14&layout=compact&theme=dark&hide_border=true&bg_color=12100e&title_color=ffd700&text_color=ffffff" width="420" />
 </div>
 
 ---
