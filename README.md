@@ -10,10 +10,10 @@
 
 <br/>
 
-<!-- QUICK CONTACT & SOCIALS (LINKEDIN & EMAIL ADDED) -->
+<!-- QUICK CONTACT & SOCIALS -->
 <p align="center">
-  <a href="https://github.com/shalu-iq-14">
-    <img src="https://img.shields.io/badge/GITHUB-shalu--iq--14-FF69B4?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <a href="https://github.com/Shalujain14">
+    <img src="https://img.shields.io/badge/GITHUB-Shalujain14-FF69B4?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/shalu-jain-a15138289">
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/EMAIL-SHALUJAIN142001%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shalu-iq-14&style=for-the-badge&color=ff69b4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shalujain14&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
 <br/>
@@ -153,14 +153,14 @@ I am a **Data Scientist & AI Engineer** focused on building cutting-edge Generat
 ## 📊 Live GitHub Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalu-iq-14&show_icons=true&theme=dark&hide_border=true&bg_color=12100e&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalu-iq-14&theme=dark&hide_border=true&background=12100e&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shalujain14&show_icons=true&theme=dark&hide_border=true&bg_color=12100e&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shalujain14&theme=dark&hide_border=true&background=12100e&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalu-iq-14&layout=compact&theme=dark&hide_border=true&bg_color=12100e&title_color=ff69b4&text_color=ffffff" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalujain14&layout=compact&theme=dark&hide_border=true&bg_color=12100e&title_color=ff69b4&text_color=ffffff" width="420" />
 </div>
 
 ---
